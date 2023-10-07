@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@500&family=Mooli&family=Open+Sans:wght@500&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin-left: 25% !important;
+    margin-top: 25% !important;
+}
+.card {
+    font-family: 'AR One Sans', sans-serif !important;
+    text-align: center !important;
+    border: solid rgb(0, 153, 255) !important;
+}
+
+#number {
+    margin: 40px;
+    font-size: 30px;
+}
+
+#reset-button {
+    margin: 0 10px;
+    padding: 8px 20px;
+}
